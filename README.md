@@ -4,7 +4,7 @@ Helper tool to change the WACN and System ID of P25 Trunking systems in EF Johns
 
 ```
 >>> EFJ RCF WACN & System ID Changer 1.0 DEBUG_DNR build B0R0 (Built 1/1/2000 at 12:00 AM)
->>> Copyright c  2018 All Rights Reserved.
+>>> Copyright (c) 2018 Bryan Biedenkapp 2018 All Rights Reserved.
 
 usage: EfjRCFSysIdChange <extra arguments ...>
 
